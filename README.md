@@ -6,9 +6,9 @@ Automatically shutdown a Google Cloud Platform VM when it is idle for a period o
 
 ## Usage
 
-git clone https://github.com/screamatthewind/auto-shutdown-gcp-vm-on-idle\
-cd auto-shutdown-gcp-vm-on-idle/auto-shutdown\
-sudo ./install.sh
+git clone https://github.com/screamatthewind/auto-shutdown-gcp-vm-on-idle  
+cd auto-shutdown-gcp-vm-on-idle/auto-shutdown  
+sudo ./install.sh  
 
 After install, the service is started.  It can be controlled as follows:
 
@@ -20,5 +20,5 @@ If you VM's disks are persistent, the service will always be available.  It does
 
 ## Credits
 
-Forked from: https://github.com/b0noI/ai-platform-samples (auto-shutdown branch)\
+Forked from: https://github.com/b0noI/ai-platform-samples (auto-shutdown branch)  
 Original blog: https://blog.kovalevskyi.com/aiplatform-notebooks-and-vms-auto-shutdown-on-idle-dd94ed3d4724
